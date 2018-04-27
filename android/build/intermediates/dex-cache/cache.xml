@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_108cc986b91bf28fec2bfa896e2d3bec2aee2fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_27f46d03ff70dafd19b0aa182260124371b3bac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5912ae4ab5989a59fb7ca9716423d7d3097733ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a6d78472e602faa04f17332908fbbb63065c982b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bc4e6dee38297b43dc559d38534e394f41237f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_175dfabea15d0e2afea13cb66b6050574e4c193b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_53970fa5a2abc584f2c3303588d24f897f4d1cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0fecd7c844e591c96ec73cdb218f6740e64a4793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_df97c1c3f94dbce74fa438bee0f3468dd7227bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5f5073cc7c62f4377e867410cd276cac3ee0a7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_948a235a70648782e320bb867b18c5326f265bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_c7c83d5ee1f3647d93d309908be0a6281dfdbc8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_060f55fe25a63746fba71e1ad5ed722d495471ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_248a89cfcb00d6dacdf44e47065dfc5fc885d8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_7aad890fc68c970ce2335879566fb843db39b265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0b41882841ca3705d0d0da43311664941f136033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.3_b127fffc22c7363fa83013186189147bd025ddd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ef01e8b4cfb644dd95a65c0ad4ee090ffc33788a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_fecf980d9a89bff3af31c3e25688213e7723de47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_fcf3d6fb66eb49b19ccda3cf594b4d70c194bb07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexandre/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/var/www/estudos/gonative/m1/desafio1/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c7df3bebb12802126f5a306bd2cd830904dddfcc.jar" />
+    </item>
+
+</items>
